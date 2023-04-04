@@ -22,6 +22,10 @@
 account/.gitignore
 account/mvnw.cmd
 account/mvnw
+**/target/**
+*.iml
+*.idea
+
 
 
 
